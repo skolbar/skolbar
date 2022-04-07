@@ -1,0 +1,3 @@
+- Meu Nome é Pedro Escobar, tenho 19 anos e sou fissurado em técnologia.
+- Estou no segundo ano/terceiro termo do curso de ciência da Computação na Univem.
+- Acredito que qualquer um consegue ir aonde quiser com muita vontade, interesse e um pouco de sorte.
